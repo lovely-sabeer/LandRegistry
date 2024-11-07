@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\WEB DEV\\1\\land-registry-dapp-frontend\\contracts\\LandRegistry.sol": {
+      "lastModificationDate": 1731005810255,
+      "contentHash": "ea67f2e462e850ac623658ee4cbfe09c",
+      "sourceName": "contracts/LandRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "LandRegistry"
+      ]
+    },
+    "D:\\WEB DEV\\1\\land-registry-dapp-frontend\\contracts\\TransferLandOwnership.sol": {
+      "lastModificationDate": 1731005813287,
+      "contentHash": "ea84e1976b7473e54a00ec7cae791ac7",
+      "sourceName": "contracts/TransferLandOwnership.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "TransferLandOwnership"
+      ]
+    }
+  }
+}
